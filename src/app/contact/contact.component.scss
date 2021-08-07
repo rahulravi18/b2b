@@ -1,0 +1,14 @@
+.feature {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+  }
+  .bg-primary {
+    background-color: #0d6efd !important;
+  }
+  .bg-gradient {
+    background-image: var(--bs-gradient) !important;
+  }
